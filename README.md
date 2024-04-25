@@ -38,7 +38,7 @@ sudo git clone https://github.com/ErAshutoshGupta
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/ErAshutoshGupta/Bhukkad-App/tree/main
 ```
 
 
